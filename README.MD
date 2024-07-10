@@ -1,7 +1,5 @@
 # My Minimal API Project
 
-![Excited GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVyd2t6bHlwc29nZTIwaThuMHd5ZHc1bThiYzhlZTlxbXgyOHJnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)
-
 ## Overview
 
 This repository contains my implementation and exercises as I follow along with the book "Mastering Minimal APIs in ASP.NET Core" by Andrea Tosato, Marco Minerva, and Emanuele Bartolesi. The project demonstrates the principles and practices for building, testing, and deploying minimal APIs using .NET 6.
